@@ -4,3 +4,4 @@ I am Kayla Arestivo, a sophmore at Lehigh University in Bethlehem, PA. I am a Jo
 ### Here is my [LinkedIn Page](https://www.linkedin.com/in/kayla-arestivo-00967b153/)
 ![Profile Picture](https://github.com/kaylaarestivo/kaylaarestivo.github.io/blob/master/IMG_6128.jpg?raw=true)
 ![Lehigh University Undergraduate Enrollment Infographic](https://github.com/kaylaarestivo/kaylaarestivo.github.io/blob/master/Lehigh%20University%20Undergraduate%20Enrollment.png?raw=true)
+![Coffee Consumption in the United States](https://github.com/kaylaarestivo/kaylaarestivo.github.io/blob/master/Coffee%20Consumption%20in%20the%20United%20States.png?raw=true)
