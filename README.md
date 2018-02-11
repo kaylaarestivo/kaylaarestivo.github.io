@@ -17,3 +17,5 @@ I am Kayla Arestivo, a sophmore at Lehigh University in Bethlehem, PA. I am a Jo
 # Timeline of the inspirational life of Martin Luther King Jr.
 ## This timeline of MLK shows some of the most historical moments of his life from his birth to his death
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=16AsHuSOBobXirLLheTq8iTKA6zow8xx5zuPRt7mTFpE&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=16AsHuSOBobXirLLheTq8iTKA6zow8xx5zuPRt7mTFpE&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
