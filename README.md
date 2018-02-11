@@ -15,5 +15,5 @@ I am Kayla Arestivo, a sophmore at Lehigh University in Bethlehem, PA. I am a Jo
 ## Here in this timline are some of the stages Rio went through in preparation of the 2016 Olympics to the Opening Ceremony
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=17J_gXbCDbwJLdJsccpQhoTHoBWq0oKPv-Ri7CoXMOKI&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 # Timeline of the inspirational life of Martin Luther King Jr.
-## This timeline of MLK shows some of the most historical moments of his life from his birth to his death
+## This timeline of MLK shows some of the most historical moments of his life from his birth to his death and his ongoing legacy, celebrated by billions of people
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=16AsHuSOBobXirLLheTq8iTKA6zow8xx5zuPRt7mTFpE&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
