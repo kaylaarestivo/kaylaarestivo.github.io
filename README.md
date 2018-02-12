@@ -19,5 +19,8 @@ I am Kayla Arestivo, a sophmore at Lehigh University in Bethlehem, PA. I am a Jo
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=16AsHuSOBobXirLLheTq8iTKA6zow8xx5zuPRt7mTFpE&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 # Lehigh University Fall 2016 Undergraduate Enrollment 
-## This graph shows the Undergraduate enrollment of the three main colleges at Lehigh University in the Fall of 2016
+## This graph shows the undergraduate enrollment of the three main colleges at Lehigh University in the Fall of 2016
 ![Lehigh University Fall 2016 Undergraduate Enrollment](https://github.com/kaylaarestivo/kaylaarestivo.github.io/blob/master/Undergraduate_Enrollment.png?raw=true)
+# Lehigh University Undergraduate Enrollment 2008-2017
+## This line chart shows the enrollment percentages of students in the three main colleges at Lehigh University over the past ten years
+![Lehigh University Undergraduate Enrollment 2008-2017](https://github.com/kaylaarestivo/kaylaarestivo.github.io/blob/master/Lehigh_University_.png?raw=true)
