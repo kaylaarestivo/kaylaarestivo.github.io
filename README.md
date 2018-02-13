@@ -26,4 +26,4 @@ I am Kayla Arestivo, a sophmore at Lehigh University in Bethlehem, PA. I am a Jo
 ![Lehigh University Undergraduate Enrollment 2008-2017](https://github.com/kaylaarestivo/kaylaarestivo.github.io/blob/master/Lehigh_University_.png?raw=true)
 # United States Unemployment Rate 2008-2017
 ## This line chart shows the unemployment rate in the United States each month for ten years
-! [United States Unemployment Rate]
+! [United States Unemployment Rate](https://github.com/kaylaarestivo/kaylaarestivo.github.io/blob/master/United_States_Unemployment_Rate_2008-2017.png?raw=true)
