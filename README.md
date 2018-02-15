@@ -30,5 +30,5 @@ I am Kayla Arestivo, a sophmore at Lehigh University in Bethlehem, PA. I am a Jo
 ## Here are five local arts centers in the Bethlehem area
 <iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1P4C6ww7othWDTOV_xzj7Xk6W_da4AEy4HjEwFBln&amp;viz=MAP&amp;h=false&amp;lat=40.609994921586576&amp;lng=-75.36971287669063&amp;t=1&amp;z=15&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
 # Local Coffeehouses in Bethlehem PA
-## This google fusion map shows five loacl coffeehouses in the Bethlehem area near Lehigh University. Each place is located for the perfect pick-me-up beverage throughout the day
+## This google fusion map shows five local coffeehouses in the Bethlehem area near Lehigh University. Each place is located for the perfect pick-me-up beverage throughout the day
 <iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1nwhirjRmyFVc0hnBhzf3n1e8mWnbAlYlm0adtJk8&amp;viz=MAP&amp;h=false&amp;lat=40.63329097238139&amp;lng=-75.39788959999998&amp;t=1&amp;z=13&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
