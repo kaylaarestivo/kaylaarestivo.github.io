@@ -4,6 +4,8 @@ I am Kayla Arestivo, a sophmore at Lehigh University in Bethlehem, PA. I am a Jo
 ### Here is my [LinkedIn Page](https://www.linkedin.com/in/kayla-arestivo-00967b153/)
 ![Profile Picture](https://github.com/kaylaarestivo/kaylaarestivo.github.io/blob/master/IMG_6128.jpg?raw=true)
 
+# Comic Strip Introduction
+## This comic stip itroduces a huge part of my life and who I am as a Lehigh University student-athlete
 ![Comic Project Introduction](https://github.com/kaylaarestivo/kaylaarestivo.github.io/blob/master/Comic.png?raw=true) 
 
 # Lehigh University Undergraduate Enrollment
