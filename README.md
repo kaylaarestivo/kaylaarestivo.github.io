@@ -5,7 +5,7 @@ I am Kayla Arestivo, a sophmore at Lehigh University in Bethlehem, PA. I am a Jo
 ![Profile Picture](https://github.com/kaylaarestivo/kaylaarestivo.github.io/blob/master/IMG_6128.jpg?raw=true)
 
 # Comic Strip Introduction
-## This comic stip itroduces soccer as a huge part of my life. I have been playing this sport ever since I was four years old and it represents a lot about who I am as a Lehigh University student-athlete. 
+## This comic stip created with [Pixon](https://www.pixton.com) itroduces soccer as a huge part of my life. I have been playing this sport ever since I was four years old and it represents a lot about who I am as a Lehigh University student-athlete. 
 ![Comic Project Introduction](https://github.com/kaylaarestivo/kaylaarestivo.github.io/blob/master/Comic.png?raw=true) 
 
 # Coffee Consumption in the United States
