@@ -17,7 +17,7 @@ I am Kayla Arestivo, a sophmore at Lehigh University in Bethlehem, PA. I am a Jo
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=16AsHuSOBobXirLLheTq8iTKA6zow8xx5zuPRt7mTFpE&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 # United States Unemployment Rate 2008-2017
-## This line chart shows the unemployment rate in the United States each month for ten years
+## This line chart made by [Chartbuilder](https://quartz.github.io/Chartbuilder/) shows the unemployment rate in the United States each month for ten consecutive years. The information is sourced from [The Bureau of Labor Statistics](https://data.bls.gov/timeseries/LNS14000000). 
 ![United States Unemployment Rate](https://github.com/kaylaarestivo/kaylaarestivo.github.io/blob/master/United_States_Unemployment_Rate_2008-2017.png?raw=true)
 
 # Local Coffeehouses in Bethlehem PA
