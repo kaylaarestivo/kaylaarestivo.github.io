@@ -12,8 +12,8 @@ I am Kayla Arestivo, a sophmore at Lehigh University in Bethlehem, PA. I am a Jo
 ## This infographic was created with [Canva](https://www.canva.com) and it shows the amount of coffee consumed by the average United States adult male and female.
 ![Coffee Consumption in the United States](https://github.com/kaylaarestivo/kaylaarestivo.github.io/blob/master/Coffee%20Consumption%20in%20the%20United%20States-2.png?raw=true)
 
-# Timeline of the inspirational life of Martin Luther King Jr.
-## [Timeline JS](https://timeline.knightlab.com/index.html#make) was used to create this timeline of MLK showing some of the most historical moments of his life from his birth to his death. It represents his ongoing legacy, celebrated by billions of people around the world.
+# Timeline of the inspirational life of Martin Luther King, Jr.
+## [Timeline JS](https://timeline.knightlab.com/index.html#make) was used to create this timeline of MLK showing some of the most historical moments of his life from his birth to his death sourced from [The Martin Luther King, Jr. Research and Education Institute](https://kinginstitute.stanford.edu/king-resources/major-king-events-chronology-1929-1968). It represents his ongoing legacy, celebrated by billions of people around the world.
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=16AsHuSOBobXirLLheTq8iTKA6zow8xx5zuPRt7mTFpE&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 # United States Unemployment Rate 2008-2017
